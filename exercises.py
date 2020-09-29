@@ -5,7 +5,7 @@ In the below example comment out the first line of code and uncomment the second
 then run the file.
 """
 print("This shouldn't print")
-# print("This should print")
+# print("This should print!")
 """
 ==== Exercise 2: print multiple things ====
 For this exercise we are going to print multiple things at once. To do this we can
